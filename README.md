@@ -1,2 +1,2 @@
 # My-Accordian
-it works fine.........
+A basic Accordian with HTML and CSS.
